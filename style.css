@@ -1,11 +1,7 @@
 
-body {
-    background: #f80;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-    height:100%;
-}
-.wrapper {
-    width: 800px;
+body { background: #f80; height:100%;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+.wrapper { width: 800px;
     margin: 30px auto;
     color: #fff;
     text-align: center;
